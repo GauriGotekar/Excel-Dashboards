@@ -1,2 +1,2 @@
 # Excel-Dashboards
-These are interactive excel dashboards based on publicly available Swaccha Sarvekshan Data.
+These are interactive excel dashboards based on publicly available Swaccha Sarvekshan Data. The Swaccha Sarvekshan data is carefully analyzed using various tools in Excel. The result is comprehensive and user-friendly dashboards. For various metrics, their deviations from the national and state averages are recorded, which aides in analyzing the gaps of urban planning, and thereby in decision-making process.
